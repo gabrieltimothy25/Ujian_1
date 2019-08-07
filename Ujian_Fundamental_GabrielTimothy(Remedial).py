@@ -56,7 +56,7 @@ print(multiplication_table(4,6)) """
     return z
 print(alphabet_position("it's never too late to try")) """
 
-#Soal Lima
+#Soal Lima(Bonus)
 """ def is_prime(num):
     prime_list = [2]
     num2 = 3
